@@ -1,0 +1,214 @@
+[
+ {
+  "sumber": "01_kebijakan_klaim_kesehatan.md",
+  "teks": "# Kebijakan Klaim Asuransi Kesehatan\n\nDokumen internal LindungiKu. Berlaku sejak 1 Januari 2026. Menggantikan seluruh ketentuan klaim kesehatan sebelumnya."
+ },
+ {
+  "sumber": "01_kebijakan_klaim_kesehatan.md",
+  "teks": "## Masa Tunggu\n\nSetiap polis kesehatan LindungiKu memiliki masa tunggu sebelum klaim dapat diajukan. Masa tunggu dihitung sejak tanggal polis dinyatakan aktif, bukan sejak tanggal pengajuan.\n\nMasa tunggu klaim rawat inap adalah 45 hari kalender. Masa tunggu klaim rawat jalan adalah 30 hari kalender. Masa tunggu untuk penyakit kritis yang tercantum pada Lampiran A polis adalah 9 bulan.\n\nPengecualian berlaku untuk kecelakaan. Klaim akibat kecelakaan dapat diajukan sejak hari pertama polis aktif, tanpa masa tunggu, dengan syarat kejadian dilaporkan paling lambat 3 hari kerja setelah kejadian."
+ },
+ {
+  "sumber": "01_kebijakan_klaim_kesehatan.md",
+  "teks": "## Batas Manfaat Tahunan\n\nBatas manfaat dihitung per tahun polis, bukan per tahun kalender. Batas yang belum terpakai tidak dapat dialihkan ke tahun polis berikutnya.\n\n| Produk | Batas rawat inap per tahun | Batas rawat jalan per tahun |\n|---|---|---|\n| Prima | Rp 275 juta | Rp 18 juta |\n| Sehat | Rp 120 juta | Rp 9 juta |\n| Keluarga | Rp 180 juta per peserta | Rp 12 juta per peserta |"
+ },
+ {
+  "sumber": "01_kebijakan_klaim_kesehatan.md",
+  "teks": "## Co-payment\n\nUntuk klaim rawat inap dengan nilai di atas Rp 50 juta, nasabah menanggung co-payment sebesar 15 persen dari selisih di atas batas tersebut. Co-payment tidak berlaku untuk klaim rawat jalan dan tidak berlaku untuk klaim akibat kecelakaan.\n\nContoh perhitungan. Klaim rawat inap senilai Rp 90 juta pada produk Prima. Selisih di atas Rp 50 juta adalah Rp 40 juta. Co-payment nasabah adalah 15 persen dari Rp 40 juta, yaitu Rp 6 juta. LindungiKu menanggung Rp 84 juta."
+ },
+ {
+  "sumber": "01_kebijakan_klaim_kesehatan.md",
+  "teks": "## Dokumen Wajib\n\nPengajuan klaim kesehatan memerlukan lima dokumen berikut. Klaim yang dokumennya tidak lengkap akan ditahan dan tidak diproses sampai kelengkapan dipenuhi.\n\n1. Formulir klaim kesehatan yang telah diisi lengkap dan ditandatangani nasabah.\n2. Surat keterangan dokter yang memuat diagnosis, tanggal perawatan, dan tindakan yang diberikan.\n3. Rincian biaya asli dari rumah sakit, bukan salinan atau ringkasan.\n4. Salinan identitas nasabah yang masih berlaku.\n5. Salinan buku rekening atas nama nasabah sendiri."
+ },
+ {
+  "sumber": "01_kebijakan_klaim_kesehatan.md",
+  "teks": "Pengajuan atas nama orang lain memerlukan surat kuasa bermeterai. Pengajuan untuk peserta anak di bawah 17 tahun memerlukan salinan kartu keluarga."
+ },
+ {
+  "sumber": "01_kebijakan_klaim_kesehatan.md",
+  "teks": "## Waktu Verifikasi dan Pencairan\n\nVerifikasi dokumen dilakukan dalam 2 hari kerja sejak seluruh dokumen wajib diterima lengkap. Klaim yang lolos verifikasi otomatis diteruskan ke tahap pencairan pada hari kerja yang sama.\n\nKlaim di atas Rp 25 juta dan klaim yang ditandai sistem sebagai berisiko tinggi memerlukan pemeriksaan manual oleh tim investigasi, dengan tambahan waktu paling lama 5 hari kerja.\n\nNasabah dapat memantau status klaim melalui menu Riwayat Klaim pada aplikasi, yang diperbarui otomatis setiap enam jam."
+ },
+ {
+  "sumber": "01_kebijakan_klaim_kesehatan.md",
+  "teks": "## Alasan Penolakan yang Paling Sering\n\nBerdasarkan data internal tahun 2025, tiga alasan penolakan terbanyak adalah polis tidak aktif pada tanggal kejadian, klaim diajukan sebelum masa tunggu berakhir, dan kondisi yang sudah ada sebelum polis diterbitkan tanpa pengungkapan pada formulir pendaftaran.\n\nKlaim yang ditolak dapat diajukan banding. Prosedur banding diatur pada dokumen terpisah."
+ },
+ {
+  "sumber": "01_kebijakan_klaim_kesehatan.md",
+  "teks": "## Batas Waktu Pengajuan\n\nKlaim harus diajukan paling lambat 60 hari kalender sejak tanggal keluar dari rumah sakit untuk rawat inap, atau sejak tanggal kunjungan untuk rawat jalan. Klaim yang diajukan melewati batas ini ditolak secara otomatis oleh sistem dan tidak dapat dibanding."
+ },
+ {
+  "sumber": "01_kebijakan_klaim_kesehatan.md",
+  "teks": "## Rawat Inap di Luar Negeri\n\nPerawatan di luar negeri ditanggung hanya pada produk Prima, dan hanya untuk keadaan darurat yang terjadi ketika nasabah sedang berada di luar negeri. Perjalanan yang direncanakan khusus untuk berobat tidak ditanggung.\n\nBatas manfaat luar negeri adalah 50 persen dari batas rawat inap tahunan. Pengajuan memerlukan tambahan salinan paspor beserta halaman cap masuk negara tujuan, dan terjemahan tersumpah untuk dokumen yang tidak berbahasa Indonesia maupun Inggris."
+ },
+ {
+  "sumber": "01_kebijakan_klaim_kesehatan.md",
+  "teks": "Nilai klaim dikonversi memakai kurs tengah Bank Indonesia pada tanggal perawatan, bukan pada tanggal pengajuan maupun tanggal pencairan."
+ },
+ {
+  "sumber": "01_kebijakan_klaim_kesehatan.md",
+  "teks": "## Koordinasi dengan Asuransi Lain\n\nNasabah yang memiliki pertanggungan dari lebih dari satu penyedia wajib mengungkapkannya pada formulir klaim. LindungiKu menanggung secara proporsional terhadap total pertanggungan yang dimiliki nasabah.\n\nMenyembunyikan keberadaan pertanggungan lain termasuk pemberian keterangan tidak benar, dan dapat menyebabkan klaim ditolak beserta pembatalan polis.\n\nApabila penyedia lain sudah membayar sebagian, nasabah melampirkan bukti pembayaran tersebut. LindungiKu menanggung sisa biaya sampai batas manfaat yang berlaku pada produknya."
+ },
+ {
+  "sumber": "01_kebijakan_klaim_kesehatan.md",
+  "teks": "## Perawatan yang Tidak Ditanggung\n\nEnam kategori berikut tidak ditanggung pada seluruh produk kesehatan. Perawatan kecantikan dan estetika. Perawatan gigi rutin di luar kecelakaan. Program kesuburan dan kehamilan pada dua tahun pertama polis. Pengobatan alternatif tanpa rujukan dokter. Perawatan akibat cedera yang disengaja. Perawatan akibat kegiatan olahraga ekstrem yang tidak diberitahukan pada saat pendaftaran.\n\nDaftar lengkap beserta definisi setiap kategori tercantum pada Lampiran B polis, dan dapat berubah pada saat perpanjangan dengan pemberitahuan 30 hari sebelumnya."
+ },
+ {
+  "sumber": "02_kebijakan_klaim_kendaraan.md",
+  "teks": "# Kebijakan Klaim Asuransi Kendaraan\n\nDokumen internal LindungiKu. Berlaku sejak 1 Januari 2026.\n\n## Jenis Pertanggungan\n\nLindungiKu menyediakan dua jenis pertanggungan kendaraan. Comprehensive menanggung kerusakan sebagian maupun kehilangan total. Total Loss Only menanggung kehilangan total saja, yaitu ketika biaya perbaikan melebihi 75 persen dari nilai pertanggungan.\n\nNasabah memilih jenis pertanggungan pada saat pendaftaran dan dapat mengubahnya hanya pada saat perpanjangan polis."
+ },
+ {
+  "sumber": "02_kebijakan_klaim_kendaraan.md",
+  "teks": "## Masa Tunggu\n\nTidak ada masa tunggu untuk klaim kendaraan. Pertanggungan berlaku sejak polis aktif. Ketentuan ini berbeda dengan polis kesehatan, dan sering menjadi sumber kesalahpahaman nasabah yang memiliki kedua jenis polis.\n\n## Risiko Sendiri\n\nSetiap klaim kendaraan dikenakan risiko sendiri sebesar Rp 300 ribu untuk kerusakan sebagian. Untuk kehilangan total, risiko sendiri adalah 5 persen dari nilai klaim dengan minimum Rp 500 ribu.\n\nRisiko sendiri dipotong langsung dari nilai pencairan, bukan dibayarkan terpisah oleh nasabah."
+ },
+ {
+  "sumber": "02_kebijakan_klaim_kendaraan.md",
+  "teks": "## Dokumen Wajib\n\nPengajuan klaim kendaraan memerlukan enam dokumen berikut. Klaim yang dokumennya tidak lengkap akan ditahan dan tidak diproses sampai kelengkapan dipenuhi."
+ },
+ {
+  "sumber": "02_kebijakan_klaim_kendaraan.md",
+  "teks": "1. Formulir klaim kendaraan yang telah diisi lengkap dan ditandatangani nasabah.\n2. Foto kerusakan dari empat sisi kendaraan, diambil pada lokasi kejadian apabila memungkinkan.\n3. Salinan Surat Izin Mengemudi pengemudi pada saat kejadian, yang masih berlaku.\n4. Salinan Surat Tanda Nomor Kendaraan.\n5. Salinan identitas nasabah yang masih berlaku.\n6. Surat keterangan kepolisian untuk kejadian yang melibatkan pihak ketiga, kehilangan, atau kerusakan di atas Rp 15 juta.\n\nSalinan buku rekening tidak diperlukan untuk klaim kendaraan, karena pembayaran dilakukan langsung ke bengkel rekanan."
+ },
+ {
+  "sumber": "02_kebijakan_klaim_kendaraan.md",
+  "teks": "## Bengkel Rekanan\n\nPerbaikan dilakukan di bengkel rekanan LindungiKu. Daftar bengkel tersedia pada aplikasi dan diperbarui setiap bulan.\n\nNasabah yang memilih bengkel di luar rekanan menanggung selisih biaya di atas estimasi bengkel rekanan terdekat, dan harus memperoleh persetujuan tertulis sebelum perbaikan dimulai."
+ },
+ {
+  "sumber": "02_kebijakan_klaim_kendaraan.md",
+  "teks": "## Waktu Verifikasi dan Pencairan\n\nVerifikasi dokumen dilakukan dalam 3 hari kerja sejak seluruh dokumen wajib diterima lengkap. Setelah verifikasi, surat perintah kerja dikirimkan ke bengkel rekanan pada hari kerja berikutnya.\n\nKlaim kehilangan total memerlukan pemeriksaan manual oleh tim investigasi tanpa memandang nilai klaim, dengan tambahan waktu paling lama 14 hari kerja.\n\nNasabah dapat memantau status klaim melalui menu Riwayat Klaim pada aplikasi, yang diperbarui otomatis setiap enam jam."
+ },
+ {
+  "sumber": "02_kebijakan_klaim_kendaraan.md",
+  "teks": "## Pengecualian\n\nKlaim ditolak apabila kendaraan dikemudikan oleh orang tanpa Surat Izin Mengemudi yang sah, apabila kendaraan digunakan untuk perlombaan atau tujuan komersial yang tidak diberitahukan, atau apabila pengemudi berada di bawah pengaruh alkohol atau obat terlarang pada saat kejadian.\n\nKerusakan akibat bencana alam tidak ditanggung pada polis dasar dan memerlukan perluasan jaminan yang dibeli terpisah."
+ },
+ {
+  "sumber": "02_kebijakan_klaim_kendaraan.md",
+  "teks": "## Batas Waktu Pengajuan\n\nKlaim kendaraan harus dilaporkan paling lambat 5 hari kalender sejak tanggal kejadian. Batas ini jauh lebih pendek dibanding klaim kesehatan, karena bukti fisik kerusakan dapat berubah seiring waktu."
+ },
+ {
+  "sumber": "03_produk_dan_kode_polis.md",
+  "teks": "# Daftar Produk dan Kode Polis\n\nDokumen internal LindungiKu. Diperbarui 1 Januari 2026. Kode polis dipakai pada seluruh sistem internal, pada formulir klaim, dan pada laporan keagenan.\n\n## Format Kode\n\nKode polis terdiri atas tiga bagian yang dipisahkan tanda hubung. Bagian pertama selalu LK. Bagian kedua adalah tiga huruf singkatan produk. Bagian ketiga adalah dua angka tahun penerbitan skema.\n\nKode polis tidak berubah ketika nasabah memperpanjang. Kode baru diterbitkan hanya ketika skema produk direvisi."
+ },
+ {
+  "sumber": "03_produk_dan_kode_polis.md",
+  "teks": "## Produk Kesehatan\n\n**LK-PRM-24, produk Prima.** Produk kesehatan tingkat atas. Batas rawat inap Rp 275 juta per tahun polis. Termasuk perlindungan penyakit kritis dan layanan rawat inap kamar kelas satu. Premi mulai Rp 780 ribu per bulan untuk usia 25 tahun. Memerlukan pemeriksaan kesehatan awal untuk pendaftar di atas usia 45 tahun.\n\n**LK-SHT-24, produk Sehat.** Produk kesehatan dasar. Batas rawat inap Rp 120 juta per tahun polis. Tidak termasuk perlindungan penyakit kritis. Premi mulai Rp 310 ribu per bulan untuk usia 25 tahun. Tidak memerlukan pemeriksaan kesehatan awal."
+ },
+ {
+  "sumber": "03_produk_dan_kode_polis.md",
+  "teks": "**LK-KEL-24, produk Keluarga.** Produk kesehatan untuk satu keluarga inti, maksimal enam peserta. Batas rawat inap Rp 180 juta per peserta per tahun polis. Premi dihitung per peserta dengan potongan 20 persen untuk peserta ketiga dan seterusnya."
+ },
+ {
+  "sumber": "03_produk_dan_kode_polis.md",
+  "teks": "## Produk Kendaraan\n\n**LK-MTR-24, produk Motor Aman.** Pertanggungan sepeda motor. Tersedia dalam skema Comprehensive dan Total Loss Only. Nilai pertanggungan mengikuti harga pasar kendaraan pada saat pendaftaran.\n\n**LK-MBL-24, produk Mobil Aman.** Pertanggungan mobil penumpang pribadi. Tersedia dalam skema Comprehensive dan Total Loss Only. Perluasan jaminan bencana alam dijual terpisah dengan tambahan premi 0.3 persen dari nilai pertanggungan."
+ },
+ {
+  "sumber": "03_produk_dan_kode_polis.md",
+  "teks": "## Produk yang Sudah Tidak Dijual\n\n**LK-PRM-21, produk Prima Lama.** Tidak lagi dijual sejak Maret 2024. Polis yang masih berjalan tetap dilayani sampai masa berlakunya habis. Batas rawat inap pada skema ini adalah Rp 150 juta per tahun polis, lebih rendah daripada LK-PRM-24.\n\n**LK-SHT-22, produk Sehat Lama.** Tidak lagi dijual sejak Maret 2024. Nasabah dianjurkan berpindah ke LK-SHT-24 pada saat perpanjangan berikutnya, tanpa masa tunggu ulang."
+ },
+ {
+  "sumber": "03_produk_dan_kode_polis.md",
+  "teks": "## Catatan untuk Agen\n\nKode produk wajib ditulis lengkap pada setiap formulir. Penulisan sebagian, misalnya menulis PRM saja tanpa LK dan tanpa tahun, menyebabkan formulir ditolak sistem.\n\nNasabah yang menanyakan perbedaan antara LK-PRM-24 dan LK-PRM-21 sering bingung karena nama produknya sama. Selalu sebutkan kode lengkapnya, bukan nama produknya saja."
+ },
+ {
+  "sumber": "04_prosedur_banding.md",
+  "teks": "# Prosedur Banding Klaim yang Ditolak\n\nDokumen internal LindungiKu. Berlaku sejak 1 Januari 2026.\n\nNasabah yang klaimnya ditolak berhak mengajukan banding satu kali untuk setiap klaim. Prosedur di bawah ini dijalankan berurutan. Setiap langkah bergantung pada hasil langkah sebelumnya, sehingga tidak boleh dilompati."
+ },
+ {
+  "sumber": "04_prosedur_banding.md",
+  "teks": "## Langkah Banding\n\n1. Nasabah menerima surat penolakan melalui aplikasi dan surel. Surat tersebut memuat kode alasan penolakan, misalnya TL-03 untuk polis tidak aktif, dan tanggal batas banding.\n\n2. Nasabah membuka menu Banding pada aplikasi dan memasukkan nomor klaim beserta kode alasan penolakan yang tertera pada surat tersebut. Sistem menampilkan daftar dokumen tambahan yang diperlukan, dan daftar tersebut berbeda untuk setiap kode alasan."
+ },
+ {
+  "sumber": "04_prosedur_banding.md",
+  "teks": "3. Apabila daftar pada langkah 2 kosong, banding dapat langsung diajukan tanpa dokumen tambahan. Apabila daftar tersebut berisi, nasabah wajib mengunggah seluruh dokumen yang diminta sebelum tombol kirim menjadi aktif.\n\n4. Tim banding memeriksa pengajuan dalam 7 hari kerja. Pemeriksaan dilakukan oleh petugas yang berbeda dari petugas yang menolak klaim pada tahap pertama.\n\n5. Hasil banding dikirimkan melalui aplikasi dan surel. Hasil berupa banding diterima, banding ditolak, atau permintaan klarifikasi tambahan."
+ },
+ {
+  "sumber": "04_prosedur_banding.md",
+  "teks": "6. Apabila hasil pada langkah 5 adalah permintaan klarifikasi, nasabah memiliki 14 hari kalender untuk menjawab. Batas 7 hari kerja pada langkah 4 dihitung ulang sejak klarifikasi diterima."
+ },
+ {
+  "sumber": "04_prosedur_banding.md",
+  "teks": "## Batas Waktu\n\nBanding harus diajukan paling lambat 30 hari kalender sejak tanggal surat penolakan. Pengajuan melewati batas tersebut tidak dapat diproses oleh sistem.\n\nBatas ini tidak dapat diperpanjang, termasuk apabila nasabah sedang dirawat atau berada di luar negeri. Dalam keadaan tersebut, banding dapat diajukan oleh kuasa dengan surat kuasa bermeterai."
+ },
+ {
+  "sumber": "04_prosedur_banding.md",
+  "teks": "## Banding yang Tidak Dapat Diajukan\n\nTiga jenis penolakan bersifat final dan tidak dapat dibanding. Klaim yang diajukan melewati batas waktu pengajuan. Klaim atas polis yang sudah berakhir lebih dari 12 bulan. Klaim yang terbukti memuat dokumen yang dipalsukan.\n\nUntuk kategori ketiga, LindungiKu berhak membatalkan seluruh polis atas nama nasabah tersebut dan melaporkan kepada asosiasi industri."
+ },
+ {
+  "sumber": "04_prosedur_banding.md",
+  "teks": "## Eskalasi di Luar LindungiKu\n\nNasabah yang tidak puas dengan hasil banding dapat mengajukan keberatan kepada lembaga mediasi industri asuransi. LindungiKu wajib menyediakan seluruh berkas klaim kepada lembaga tersebut dalam 10 hari kerja sejak permintaan diterima.\n\nInformasi kontak lembaga mediasi disertakan pada setiap surat hasil banding, tanpa perlu diminta nasabah."
+ },
+ {
+  "sumber": "05_kebijakan_data_nasabah.md",
+  "teks": "# Kebijakan Penanganan Data Nasabah\n\nDokumen internal LindungiKu. Berlaku sejak 1 Januari 2026. Wajib dibaca oleh seluruh karyawan dan agen."
+ },
+ {
+  "sumber": "05_kebijakan_data_nasabah.md",
+  "teks": "## Klasifikasi Data\n\nLindungiKu membagi data nasabah menjadi tiga tingkat. Tingkat menentukan siapa yang boleh mengakses dan di mana data boleh disimpan.\n\n**Tingkat 1, data umum.** Nama, kota domisili, jenis produk yang dimiliki. Dapat diakses seluruh karyawan yang menangani layanan pelanggan.\n\n**Tingkat 2, data identitas.** Nomor identitas, tanggal lahir, alamat lengkap, nomor rekening. Hanya dapat diakses petugas klaim dan petugas keuangan, dan setiap akses dicatat pada log sistem."
+ },
+ {
+  "sumber": "05_kebijakan_data_nasabah.md",
+  "teks": "**Tingkat 3, data kesehatan.** Diagnosis, riwayat perawatan, hasil pemeriksaan. Hanya dapat diakses tim medis internal dan tim investigasi klaim. Akses memerlukan persetujuan penyelia dan berlaku 24 jam."
+ },
+ {
+  "sumber": "05_kebijakan_data_nasabah.md",
+  "teks": "## Tempat Penyimpanan\n\nSeluruh data nasabah disimpan pada pusat data di dalam wilayah Indonesia. Data Tingkat 3 tidak boleh disalin ke perangkat pribadi, tidak boleh dikirim melalui aplikasi perpesanan, dan tidak boleh diunggah ke layanan pihak ketiga mana pun.\n\nKetentuan ini berlaku juga untuk layanan kecerdasan buatan. Karyawan tidak diperkenankan menyalin isi dokumen klaim ke layanan chatbot publik untuk keperluan apa pun, termasuk untuk meringkas atau menerjemahkan."
+ },
+ {
+  "sumber": "05_kebijakan_data_nasabah.md",
+  "teks": "## Masa Simpan\n\nData klaim disimpan 10 tahun sejak klaim selesai, mengikuti ketentuan arsip industri. Data pendaftaran yang tidak berlanjut menjadi polis dihapus setelah 90 hari.\n\nNasabah dapat meminta penghapusan data pribadinya setelah polis berakhir, kecuali data yang wajib disimpan menurut peraturan. Permintaan diproses dalam 30 hari kalender."
+ },
+ {
+  "sumber": "05_kebijakan_data_nasabah.md",
+  "teks": "## Permintaan Data oleh Nasabah\n\nNasabah berhak meminta salinan seluruh data yang LindungiKu simpan atas namanya. Permintaan diajukan melalui menu Privasi pada aplikasi.\n\nSalinan dikirimkan dalam 14 hari kerja dalam bentuk berkas terenkripsi, dengan kata sandi dikirim melalui saluran terpisah. Permintaan pertama setiap tahun tidak dikenakan biaya."
+ },
+ {
+  "sumber": "05_kebijakan_data_nasabah.md",
+  "teks": "## Pelanggaran dan Sanksi\n\nAkses data di luar kewenangan merupakan pelanggaran berat. Sanksi berjenjang mulai dari peringatan tertulis sampai pemutusan hubungan kerja, dan dapat disertai tuntutan hukum.\n\nSetiap dugaan kebocoran data wajib dilaporkan kepada tim keamanan dalam 2 jam sejak diketahui, tanpa menunggu kepastian. Melaporkan dugaan yang ternyata keliru tidak dikenakan sanksi. Tidak melaporkan dugaan yang ternyata benar dikenakan sanksi berat."
+ },
+ {
+  "sumber": "05_kebijakan_data_nasabah.md",
+  "teks": "## Data untuk Keperluan Analitik\n\nData yang dipakai untuk analisis internal wajib dianonimkan terlebih dahulu. Anonimisasi berarti menghapus nama, nomor identitas, alamat, dan nomor rekening, bukan sekadar menyembunyikannya pada tampilan.\n\nTim analitik tidak memiliki akses ke data Tingkat 3 dalam bentuk apa pun."
+ },
+ {
+  "sumber": "06_sla_layanan_pelanggan.md",
+  "teks": "# Standar Layanan Pelanggan\n\nDokumen internal LindungiKu. Berlaku sejak 1 Januari 2026.\n\n## Waktu Tanggap per Saluran\n\n| Saluran | Waktu tanggap pertama | Jam operasional |\n|---|---|---|\n| Live chat aplikasi | 3 menit | 24 jam setiap hari |\n| Telepon 1500-xxx | 60 detik | 06.00 sampai 22.00 WIB |\n| Surel | 1 hari kerja | Senin sampai Jumat |\n| Media sosial | 2 jam | 08.00 sampai 20.00 WIB |\n\nWaktu tanggap pertama berarti waktu sampai nasabah mendapat jawaban dari manusia, bukan balasan otomatis."
+ },
+ {
+  "sumber": "06_sla_layanan_pelanggan.md",
+  "teks": "## Waktu Penyelesaian\n\nPertanyaan umum diselesaikan pada kontak pertama. Target penyelesaian kontak pertama adalah 80 persen dari seluruh percakapan.\n\nKeluhan yang memerlukan pemeriksaan diselesaikan dalam 3 hari kerja. Keluhan yang memerlukan koordinasi dengan pihak ketiga, misalnya rumah sakit atau bengkel, diselesaikan dalam 7 hari kerja."
+ },
+ {
+  "sumber": "06_sla_layanan_pelanggan.md",
+  "teks": "## Eskalasi\n\nPercakapan dieskalasi ke penyelia apabila nasabah memintanya secara langsung, apabila keluhan sudah masuk kontak ketiga untuk masalah yang sama, atau apabila nilai klaim yang dipersoalkan melebihi Rp 50 juta.\n\nPenyelia wajib merespons eskalasi dalam 30 menit pada jam operasional.\n\n## Bahasa dan Nada\n\nSeluruh komunikasi menggunakan Bahasa Indonesia yang baik, tanpa singkatan internal dan tanpa istilah teknis yang tidak dijelaskan.\n\nKode produk boleh disebutkan, namun selalu disertai nama produknya. Menulis LK-PRM-24 saja tanpa menyebut Prima membuat nasabah bingung."
+ },
+ {
+  "sumber": "06_sla_layanan_pelanggan.md",
+  "teks": "## Hal yang Tidak Boleh Dijanjikan\n\nPetugas tidak diperkenankan menjanjikan hasil klaim sebelum verifikasi selesai, menyebutkan perkiraan nilai pencairan, atau menyebutkan nama petugas yang menangani klaim tertentu.\n\nPetugas juga tidak diperkenankan menyarankan nasabah mengubah isi dokumen klaim dengan cara apa pun.\n\n## Pengukuran\n\nKepuasan diukur melalui satu pertanyaan setelah percakapan ditutup. Target skor adalah 4.2 dari 5.0 dihitung rata-rata bulanan.\n\nPercakapan yang ditutup sepihak oleh nasabah tanpa jawaban dihitung sebagai percakapan gagal dan diperiksa setiap minggu."
+ },
+ {
+  "sumber": "07_faq_internal_agen.md",
+  "teks": "# Tanya Jawab Internal untuk Agen\n\nDokumen internal LindungiKu. Diperbarui 1 Januari 2026. Bukan untuk dibagikan kepada nasabah."
+ },
+ {
+  "sumber": "07_faq_internal_agen.md",
+  "teks": "## Pertanyaan yang Paling Sering Ditanyakan Agen\n\n**Nasabah punya polis kesehatan dan polis kendaraan. Kenapa klaim kendaraannya langsung bisa tetapi klaim kesehatannya ditolak?**\n\nKarena polis kendaraan tidak memiliki masa tunggu, sedangkan polis kesehatan memiliki. Ini sumber kesalahpahaman paling sering. Jelaskan bahwa keduanya adalah produk berbeda dengan aturan berbeda, meskipun dibeli pada hari yang sama.\n\n**Nasabah menanyakan apakah masa tunggu bisa dipercepat.**"
+ },
+ {
+  "sumber": "07_faq_internal_agen.md",
+  "teks": "**Nasabah menanyakan apakah masa tunggu bisa dipercepat.**\n\nTidak bisa. Masa tunggu adalah ketentuan produk, bukan kebijakan yang dapat dinegosiasikan di tingkat agen maupun penyelia. Jangan menjanjikan pengecualian.\n\n**Nasabah pindah dari LK-SHT-22 ke LK-SHT-24. Apakah masa tunggu dihitung ulang?**\n\nTidak, selama perpindahan dilakukan pada saat perpanjangan dan tidak ada jeda kepesertaan. Apabila ada jeda lebih dari 30 hari, masa tunggu dihitung ulang dari awal.\n\n**Berapa lama pencairan klaim kesehatan?**"
+ },
+ {
+  "sumber": "07_faq_internal_agen.md",
+  "teks": "**Berapa lama pencairan klaim kesehatan?**\n\nVerifikasi 2 hari kerja setelah dokumen lengkap. Jangan menyebutkan total waktu sampai dana masuk rekening, karena bergantung pada bank nasabah. Sebutkan tahapan, bukan janji tanggal.\n\n**Nasabah mengunggah rincian biaya berupa foto layar, bukan dokumen asli.**\n\nDitolak. Rincian biaya harus asli dari rumah sakit. Foto layar dari aplikasi rumah sakit tidak diterima. Ini bukan kebijakan yang dapat ditawar.\n\n**Apakah agen boleh membantu mengisi formulir klaim nasabah?**"
+ },
+ {
+  "sumber": "07_faq_internal_agen.md",
+  "teks": "**Apakah agen boleh membantu mengisi formulir klaim nasabah?**\n\nBoleh membantu menjelaskan kolom, tidak boleh mengisi atau menandatangani. Tanda tangan wajib dari nasabah sendiri atau kuasa bermeterai.\n\n**Nasabah meminta nomor kontak petugas klaim yang menangani kasusnya.**\n\nTidak diberikan. Arahkan ke saluran resmi. Ini juga berlaku untuk agen sendiri."
+ },
+ {
+  "sumber": "07_faq_internal_agen.md",
+  "teks": "## Kesalahan Administratif yang Paling Sering\n\nMenulis kode produk sebagian, misalnya PRM saja tanpa LK dan tanpa tahun. Sistem menolak formulir tersebut tanpa pesan yang jelas, sehingga agen sering mengira sistem sedang bermasalah.\n\nMengunggah salinan buku rekening pada klaim kendaraan. Dokumen tersebut tidak diperlukan karena pembayaran langsung ke bengkel, dan pengunggahan yang tidak perlu memperlambat verifikasi.\n\nMelewatkan surat keterangan kepolisian pada klaim kendaraan yang melibatkan pihak ketiga. Klaim ditahan sampai dokumen tersebut masuk."
+ },
+ {
+  "sumber": "07_faq_internal_agen.md",
+  "teks": "## Ke Mana Bertanya\n\nPertanyaan produk ditujukan ke tim produk melalui saluran internal. Pertanyaan klaim yang sedang berjalan ditujukan ke tim klaim dengan menyebutkan nomor klaim. Jangan menanyakan kasus nasabah melalui aplikasi perpesanan pribadi, karena melanggar kebijakan data."
+ }
+]
